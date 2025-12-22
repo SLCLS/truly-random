@@ -1,2 +1,0 @@
-# truly-random
-Prototype repo.
