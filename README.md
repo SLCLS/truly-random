@@ -26,7 +26,7 @@ The generation proceeds _**IF AND ONLY IF**_:
 
 ### C. The Algorithm (SHA3-256 Sponge)
 
-- ** Normalization**: All inputs are stripped of prefixes (like 0x), converted to lowercase Hex (Base 16).
+- **Normalization**: All inputs are stripped of prefixes (like 0x), converted to lowercase Hex (Base 16).
 - **Canonicalization Defense**: Inputs are absorbed into a **SHA3-256 (Keccak)** sponge separated by a specific delimiter (e.g., |) to prevent concatenation attacks.
 - **Final Output**: A standard 32-byte (64-character hex) hash.
 
