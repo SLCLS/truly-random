@@ -11,3 +11,7 @@
 # ASSIGNED TASKS
 @SLCLS - Plan and design a comprehensive development roadmap.
 @orchimodirie - To be assigned.
+
+# NOTES
+- Integrated with HackClub Flavortown event.
+- Licensing: Open-Source but with no modification privilege, free for personal use, no warranty.
