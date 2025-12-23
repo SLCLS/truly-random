@@ -3,7 +3,7 @@ Truly-Random/
 |     |---- main.cpp (NOTE: Handles the Process, SHA3-256 algorithm)
 |     |
 |     |
-|     |---- sources/
+|     |---- aggregators/
 |     |     |---- 1. drand.cpp
 |     |     |---- 2. nist.cpp
 |     |     |---- 3. uchile.cpp
@@ -16,8 +16,9 @@ Truly-Random/
 |---- include/
 |     |---- (.hpp header files ng executables dito.)
 |     |
-|     |---- tests/
-|     |
+|
+|---- tests/
+|     |---- (kung ano-anong tests and canary version dito.)
 |
 |---- docs/
 |     |---- (kung ano-anong documentation here)
