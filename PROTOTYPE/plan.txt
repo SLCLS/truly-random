@@ -1,0 +1,23 @@
+Truly-Random/
+|---- src/
+|     |---- main.cpp (NOTE: Handles the Process, SHA3-256 algorithm)
+|     |
+|     |
+|     |---- sources/
+|     |     |---- 1. drand.cpp
+|     |     |---- 2. nist.cpp
+|     |     |---- 3. uchile.cpp
+|     |     |---- 4. btc.cpp
+|     |     |---- 5. eth.cpp
+|     |
+|     |---- utility/
+|     |     |---- (Kung ano-anong extra na kailangan dito, para hindi bloated main.cpp)
+|
+|---- include/
+|     |---- (.hpp header files ng executables dito.)
+|     |
+|     |---- tests/
+|     |
+|
+|---- docs/
+|     |---- (kung ano-anong documentation here)
