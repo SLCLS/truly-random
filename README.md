@@ -65,3 +65,6 @@ To map a 256-bit hash to a lottery winner without favoring lower numbers:
 
 ## 5. Others
 - [ ] Possible smart contract (layer 2) deployment.
+
+## 6. Roadmap
+See [Project Roadmap](https://github.com/SLCLS/truly-random/blob/main/docs/roadmap.md)!
